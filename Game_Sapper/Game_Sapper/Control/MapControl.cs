@@ -195,7 +195,7 @@ namespace Game_Sapper.Control
         private static void SeedMap()
         {
             Random r = new Random();
-            int number = 2;
+            int number = 10;
 
             for (int i = 0; i < number; i++)
             {
@@ -235,7 +235,7 @@ namespace Game_Sapper.Control
 
 
 
-                if (tmp == 2)
+                if (tmp == 10)
                 {
                     MessageBox.Show("Победа!!! :)");
                     form.Controls.Clear();
