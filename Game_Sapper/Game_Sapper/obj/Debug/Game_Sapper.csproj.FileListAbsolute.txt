@@ -1,0 +1,20 @@
+C:\Users\dima_\source\repos\Game_Sapper\Game_Sapper\bin\Debug\Game_Sapper.exe.config
+C:\Users\dima_\source\repos\Game_Sapper\Game_Sapper\bin\Debug\Game_Sapper.exe
+C:\Users\dima_\source\repos\Game_Sapper\Game_Sapper\bin\Debug\Game_Sapper.pdb
+C:\Users\dima_\source\repos\Game_Sapper\Game_Sapper\obj\Debug\Game_Sapper.csprojAssemblyReference.cache
+C:\Users\dima_\source\repos\Game_Sapper\Game_Sapper\obj\Debug\Game_Sapper.Form1.resources
+C:\Users\dima_\source\repos\Game_Sapper\Game_Sapper\obj\Debug\Game_Sapper.Properties.Resources.resources
+C:\Users\dima_\source\repos\Game_Sapper\Game_Sapper\obj\Debug\Game_Sapper.csproj.GenerateResource.cache
+C:\Users\dima_\source\repos\Game_Sapper\Game_Sapper\obj\Debug\Game_Sapper.csproj.CoreCompileInputs.cache
+C:\Users\dima_\source\repos\Game_Sapper\Game_Sapper\obj\Debug\Game_Sapper.exe
+C:\Users\dima_\source\repos\Game_Sapper\Game_Sapper\obj\Debug\Game_Sapper.pdb
+C:\Users\dima_\OneDrive\Desktop\Новая папка\oop-lab5-dimapichuev2000\Game_Sapper\Game_Sapper\bin\Debug\Game_Sapper.exe.config
+C:\Users\dima_\OneDrive\Desktop\Новая папка\oop-lab5-dimapichuev2000\Game_Sapper\Game_Sapper\bin\Debug\Game_Sapper.exe
+C:\Users\dima_\OneDrive\Desktop\Новая папка\oop-lab5-dimapichuev2000\Game_Sapper\Game_Sapper\bin\Debug\Game_Sapper.pdb
+C:\Users\dima_\OneDrive\Desktop\Новая папка\oop-lab5-dimapichuev2000\Game_Sapper\Game_Sapper\obj\Debug\Game_Sapper.csprojAssemblyReference.cache
+C:\Users\dima_\OneDrive\Desktop\Новая папка\oop-lab5-dimapichuev2000\Game_Sapper\Game_Sapper\obj\Debug\Game_Sapper.Form1.resources
+C:\Users\dima_\OneDrive\Desktop\Новая папка\oop-lab5-dimapichuev2000\Game_Sapper\Game_Sapper\obj\Debug\Game_Sapper.Properties.Resources.resources
+C:\Users\dima_\OneDrive\Desktop\Новая папка\oop-lab5-dimapichuev2000\Game_Sapper\Game_Sapper\obj\Debug\Game_Sapper.csproj.GenerateResource.cache
+C:\Users\dima_\OneDrive\Desktop\Новая папка\oop-lab5-dimapichuev2000\Game_Sapper\Game_Sapper\obj\Debug\Game_Sapper.csproj.CoreCompileInputs.cache
+C:\Users\dima_\OneDrive\Desktop\Новая папка\oop-lab5-dimapichuev2000\Game_Sapper\Game_Sapper\obj\Debug\Game_Sapper.exe
+C:\Users\dima_\OneDrive\Desktop\Новая папка\oop-lab5-dimapichuev2000\Game_Sapper\Game_Sapper\obj\Debug\Game_Sapper.pdb
